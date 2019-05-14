@@ -1,2 +1,6 @@
+ipywidgets
 jupyter
 pandas
+requests
+scikit-learn
+seaborn
